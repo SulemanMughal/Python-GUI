@@ -1,1 +1,0 @@
-Create a calendar GUI with Python using Tkinter
